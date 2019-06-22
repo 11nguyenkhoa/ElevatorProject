@@ -1,0 +1,10 @@
+{
+  "numFloors": 20,
+  "numElev": 4,
+  "maxPersons": 10,
+  "floorTime": 1000,
+  "doorTime": 2000,
+  "idleTime": 10000,
+  "durationTime": 120,
+  "creationRate": 3
+}
